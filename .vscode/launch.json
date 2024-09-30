@@ -1,0 +1,12 @@
+{
+    "configurations":[
+        {
+            "type": "hexdebug",
+            "request": "attach",
+            "name": "HexDebug: Attach",
+            "port": 4444,
+            "stopOnEntry": true
+            
+        }
+    ]
+}
