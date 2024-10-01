@@ -1,0 +1,4 @@
+#file(counter.hexpattern)
+
+{@num(10)} >>
+$return_list
