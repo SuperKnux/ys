@@ -1,7 +1,7 @@
     // Increment the counter
-Soroban Reflection
+@pattern(NORTHEAST,wdeaqq)
     // Change the angle signature
-Glyphmaker's Distillation
+@pattern(NORTHEAST,aqqqdae)
     // Test to see of the resulting pattern mishaps
 Gemini Decomposition
 Athena's Gambit
@@ -13,7 +13,7 @@ Athena's Gambit
 {
     Athena's Reflection
     {
-        "Last Mishap: That pattern isn't associated with any action"
+        @str(Last Mishap: That pattern isn't associated with any action)
     }
     Flock's Disintegration
     Equality Distillation
@@ -23,7 +23,7 @@ Athena's Gambit
     Flock's Disintegration
     {
         Reveal
-        Janis' Gambit
+        @pattern(WEST,aadee)
     }
     Flock's Disintegration
     Augur's Exaltation
@@ -31,16 +31,16 @@ Athena's Gambit
 }
 {
     Classifier's Purification
-    Numerical Reflection: 0
+    Numerical Reflection(0)
     Classifier's Purification
     Equality Distillation
     {
-        Bookkeeper's Gambit: v
+        Bookkeeper's Gambit(v)
     }
     Flock's Disintegration
     {
         Reveal
-        Janis' Gambit
+        @pattern(WEST,aadee)
     }
     Flock's Disintegration
     Augur's Exaltation
