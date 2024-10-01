@@ -1,3 +1,4 @@
+#wget(macros.hexpattern)(https://raw.githubusercontent.com/SuperKnux/ys/refs/heads/main/.vscode/macros.hexpattern)
 #file(macros.hexpattern)
 
 $(Armor Compensator)
