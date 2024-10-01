@@ -1,18 +1,18 @@
-#def(Minimum Distillation)(
+#def(Minimum_Distillation)(
 Dioscuri Gambit
 Minimus Distillation
 Rotation Gambit II
 Augur's Exaltation
 )
 
-#def(Maximum Distillation)(
+#def(Maximum_Distillation)(
 Dioscuri Gambit
 Maximus Distillation
 Rotation Gambit II
 Augur's Exaltation
 )
 
-#def(Armor Compensator)(
+#def(Armor_Compensator)(
 // get d and t
 Prospector's Gambit
 Boxer's Purification
@@ -67,5 +67,5 @@ Numerical Reflection: 8
 Division Distillation
 
 // return whichever one is correct
-$(Maximum Distillation)
+$Maximum_Distillation
 )
