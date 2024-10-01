@@ -1,18 +1,18 @@
-#def(Minimum_Distillation)(
+#def(minimum_distillation)(
 Dioscuri Gambit
 Minimus Distillation
 Rotation Gambit II
 Augur's Exaltation
 )
 
-#def(Maximum_Distillation)(
+#def(maximum_distillation)(
 Dioscuri Gambit
 Maximus Distillation
 Rotation Gambit II
 Augur's Exaltation
 )
 
-#def(Armor_Compensator)(
+#def(armor_compensator)(
 // get d and t
 Prospector's Gambit
 Boxer's Purification
@@ -20,23 +20,23 @@ Rotation Gambit
 Squire's Purification
 
 // find D_0A
-Numerical Reflection: 1
+Numerical Reflection(1)
 Prospector's Gambit
-Numerical Reflection: 125
+Numerical Reflection(125)
 Division Distillation
 Subtractive Distillation
 
-Numerical Reflection: 3
+Numerical Reflection(3)
 Fisherman's Gambit II
 Jester's Gambit
 Division Distillation
 
 // find D_0B
 Rotation Gambit II
-Numerical Reflection: 25
+Numerical Reflection(25)
 Subtractive Distillation
 Jester's Gambit
-Numerical Reflection: 8
+Numerical Reflection(8)
 Additive Distillation
 
 Dioscuri Gambit
@@ -44,28 +44,28 @@ Multiplicative Distillation
 Rotation Gambit II
 
 Undertaker's Gambit
-Numerical Reflection: 0.5
+Numerical Reflection(0.5)
 Power Distillation
 Rotation Gambit II
 
-Numerical Reflection: 2
+Numerical Reflection(2)
 Power Distillation
 Multiplicative Distillation
 
-Numerical Reflection: 5
+Numerical Reflection(5)
 Fisherman's Gambit
-Numerical Reflection: 400
+Numerical Reflection(400)
 Multiplicative Distillation
 Additive Distillation
 
-Numerical Reflection: 0.5
+Numerical Reflection(0.5)
 Power Distillation
 Multiplicative Distillation
 Additive Distillation
 
-Numerical Reflection: 8
+Numerical Reflection(8)
 Division Distillation
 
 // return whichever one is correct
-$Maximum_Distillation
+$maximum_distillation
 )
