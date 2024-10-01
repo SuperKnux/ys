@@ -44,7 +44,7 @@ Multiplicative Distillation
 Rotation Gambit II
 
 Undertaker's Gambit
-Numerical Reflection(0.5)
+{@num(0.5)} >>
 Power Distillation
 Rotation Gambit II
 
@@ -58,7 +58,7 @@ Numerical Reflection(400)
 Multiplicative Distillation
 Additive Distillation
 
-Numerical Reflection(0.5)
+{@num(0.5)} >>
 Power Distillation
 Multiplicative Distillation
 Additive Distillation
