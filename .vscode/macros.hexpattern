@@ -69,3 +69,33 @@ Division Distillation
 // return whichever one is correct
 $maximum_distillation
 )
+
+#def(bury_iota)(
+Flock's Reflection
+Flock's Gambit
+Retrograde Purification
+Speaker's Decomposition
+Integration Distillation
+Retrograde Purification
+Flock's Disintegration
+)
+
+#def(dig_iota)(
+Flock's Reflection
+Flock's Gambit
+Speaker's Decomposition
+Integration Distillation
+Flock's Disintegration
+)
+
+#def(conditional_continue)(
+{
+    Introspection
+    Bookkeeper's Gambit(-)
+    Retrospection
+}
+Flock's Disintegration
+Bookkeeper's Gambit(v)
+Augur's Exaltation
+Hermes' Gambit
+)

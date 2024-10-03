@@ -1,0 +1,176 @@
+#wget(macros.hexpattern)(https://raw.githubusercontent.com/SuperKnux/ys/refs/heads/main/.vscode/macros.hexpattern)
+
+{
+    Vacant Reflection
+    $muninns_gambit_two         
+
+    {
+        Postmaster's Reflection
+        Augur's Purification
+
+        {
+            Muninn's Reflection
+            Recitation Reflection
+            Integration Distillation
+            Uniqueness Purification
+            Huginn's Gambit
+        }
+        Numerical Reflection(2)
+        Fisherman's Gambit II
+        Combination Distillation
+
+        {
+            Bookkeeper's Gambit(v)
+        }
+        Flock's Disintegration
+        
+        Augur's Exaltation
+        Hermes' Gambit
+    }
+    Gemini Decomposition
+    Hermes' Gambit
+    
+    // placeholder for filled Stuck Arrow Filter patterns
+    {
+        // if height != 0.5, continue
+        Numerical Reflection(6)
+        Gemini Gambit
+        Stadiometer's Purification
+        {@num(0.25)} >>
+        Inequality Distillation
+        $conditional_continue
+
+        // if the vertical look component is zero, continue (filters xp)
+        Alidade's Purification
+        Vector Disintegration
+        Bookkeeper's Gambit(v-v)
+        Numerical Reflection(0)
+        Equality Distillation
+        $conditional_continue
+
+        // if the velocity is zero, continue (filters item frames)
+        Pace Purification
+        Vector Reflection Zero
+        Equality Distillation
+        $conditional_continue
+
+        // if the arrow is moving toward something solid within one block, continue (only keep non-stuck arrows)
+        Compass' Purification II
+        Undertaker's Gambit
+
+        Jester's Gambit
+        Pace Purification
+        Archer's Distillation
+
+        Dioscuri Gambit
+        Nullary Reflection
+        Inequality Distillation
+        Rotation Gambit II
+        
+        Numerical Reflection(2)
+        Additive Distillation
+        Augur's Exaltation
+
+        Subtractive Distillation
+        Length Purification
+        Numerical Reflection(1)
+        Minimus Distillation // replace with maximus to only keep stuck arrows
+        $conditional_continue
+        
+        // do something with the non-stuck arrow (insert second)
+        Dioscuri Gambit
+        Compass' Purification II
+        Jester's Gambit
+        Compass' Purification II
+        Subtractive Distillation
+        
+        Gemini Decomposition
+        Length Purification
+        Gemini Decomposition
+        {@num(0.25)} >>
+        Maximus Distillation
+        Rotation Gambit II
+
+        Division Distillation
+        Numerical Reflection(-5)
+        Division Distillation
+        Vector Reflection Zero
+        Augur's Exaltation
+        
+        // -v
+        Prospector's Gambit
+        Pace Purification
+        Gemini Decomposition
+        Length Purification
+        Undertaker's Gambit
+        Division Distillation
+
+        Jester's Gambit
+        Numerical Reflection(1)
+        $minimum_distillation
+        Multiplicative Distillation
+        Subtractive Distillation
+        
+        Impulse
+    }
+
+    Prospector's Gambit
+    Compass' Purification
+    Numerical Reflection(7)  // ambit - 1 so archer's works properly (insert first if you need to change it)
+    Dioscuri Gambit
+    Dioscuri Gambit
+
+    Zone Distillation: Non-Item
+    Rotation Gambit II
+    Zone Distillation: Non-Living
+    Intersection Distillation
+    Rotation Gambit II
+    Zone Distillation: Non-Wisp
+    Intersection Distillation
+
+    Muninn's Reflection
+    Undertaker's Gambit
+    Unifying Distillation
+    Exclusionary Distillation
+    Thoth's Gambit
+    Bookkeeper's Gambit(v)
+}
+
+Mind's Reflection
+Compass' Purification
+Vector Reflection +Y
+Dioscuri Gambit
+Archer's Distillation
+
+Gemini Decomposition
+Nullary Reflection
+Equality Distillation
+{
+    Bookkeeper's Gambit(v)
+    Numerical Reflection(5)
+}
+{
+    Mind's Reflection
+    Compass' Purification
+    Subtractive Distillation
+    Length Purification
+
+    Numerical Reflection(1)
+    Subtractive Distillation
+    Numerical Reflection(5)
+    $minimum_distillation
+}
+Augur's Exaltation
+Hermes' Gambit
+
+Multiplicative Distillation
+Additive Distillation
+Undertaker's Gambit
+
+Numerical Reflection(50)
+Summon Cyclic Wisp
+
+Entity Purification: Wisp
+Gemini Decomposition
+Bind Wisp // optional, i'm not sure if the cost (50 dust!) is worth it for this application
+Link
