@@ -138,7 +138,7 @@
 
 Mind's Reflection
 Compass' Purification
-@vec(0, 1, 0)
+{@vec(0, 1, 0)} >>
 Dioscuri Gambit
 Archer's Distillation
 
@@ -172,5 +172,4 @@ Summon Cyclic Wisp
 
 Entity Purification: Wisp
 Gemini Decomposition
-Bind Wisp // optional, i'm not sure if the cost (50 dust!) is worth it for this application
 Link
