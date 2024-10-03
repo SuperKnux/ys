@@ -138,7 +138,7 @@
 
 Mind's Reflection
 Compass' Purification
-@vec(0, 1, 0)
+{@vec(0, 1, 0)} >>
 Dioscuri Gambit
 Archer's Distillation
 
