@@ -99,3 +99,17 @@ Bookkeeper's Gambit(v)
 Augur's Exaltation
 Hermes' Gambit
 )
+
+#def(muninns_purification)(
+Muninn's Reflection
+Gemini Decomposition
+Nullary Reflection
+Equality Distillation
+Rotation Gambit II
+Augur's Exaltation
+)
+
+#def(muninns_gambit_two)(
+$muninns_purification
+Huginn's Gambit
+)
