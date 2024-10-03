@@ -132,7 +132,7 @@ Huginn's Gambit
         Jester's Gambit
     }
     {
-        Numerical Reflection: 0
+        Numerical Reflection(0)
     }
     Augur's Exaltation
     
@@ -140,7 +140,7 @@ Huginn's Gambit
     {
         // is the remaining speed greater than 1?
         Gemini Decomposition
-        Numerical Reflection: 1
+        Numerical Reflection(1)
         Maximus Distillation
         
         // if so, impulse by the unit vector (length 1) and decrement the speed
@@ -150,7 +150,7 @@ Huginn's Gambit
             Dioscuri Gambit
             Impulse
             Rotation Gambit
-            Numerical Reflection: 1
+            Numerical Reflection(1)
             Subtractive Distillation
         }
         Muninn's Reflection
